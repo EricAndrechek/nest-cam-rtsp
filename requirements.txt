@@ -5,7 +5,7 @@ gevent==20.6.2
 google==2.0.3
 greenlet==0.4.16
 idna==2.9
-protobuf==3.12.2
+protobuf==3.15.0
 requests==2.24.0
 six==1.15.0
 soupsieve==2.0.1
